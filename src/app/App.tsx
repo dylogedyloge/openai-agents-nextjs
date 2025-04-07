@@ -417,7 +417,7 @@ function App() {
             />
           </div>
           <div>
-            Realtime API<span className="text-gray-500">Agents</span>
+            Realtime API Agent Test<span className="text-gray-500">Agents</span>
           </div>
         </div>
         <div className="flex items-center">
